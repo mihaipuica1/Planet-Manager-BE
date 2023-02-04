@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{737E4EFB-E044-4542-8170-B49D58016031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetMicroservice", "PlanetMicroservice\PlanetMicroservice.csproj", "{410BAB99-9408-4493-AA98-28A188C01647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMicroservice", "TeamMicroservice\TeamMicroservice.csproj", "{2020B1DD-E1C5-4146-A117-98EB534C9598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410BAB99-9408-4493-AA98-28A188C01647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410BAB99-9408-4493-AA98-28A188C01647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410BAB99-9408-4493-AA98-28A188C01647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410BAB99-9408-4493-AA98-28A188C01647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2020B1DD-E1C5-4146-A117-98EB534C9598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2020B1DD-E1C5-4146-A117-98EB534C9598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2020B1DD-E1C5-4146-A117-98EB534C9598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2020B1DD-E1C5-4146-A117-98EB534C9598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2625901-283B-46E0-91D5-A1BCE0B83B70}
+	EndGlobalSection
+EndGlobal

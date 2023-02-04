@@ -1,0 +1,4 @@
+CREATE TABLE `captains` (
+`Id` INT NOT NULL PRIMARY KEY,
+`Name` VARCHAR(45) NOT NULL,
+);

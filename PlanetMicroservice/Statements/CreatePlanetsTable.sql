@@ -1,0 +1,7 @@
+CREATE TABLE `planets` (
+`Id` INT NOT NULL PRIMARY KEY,
+`Name` VARCHAR(150) NOT NULL,
+`Description` VARCHAR(150),
+`Status` VARCHAR(15),
+`TeamId` INT
+);
